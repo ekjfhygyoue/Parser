@@ -1,0 +1,21 @@
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Секреты
+.env
+
+# Скачанные данные
+*.xls
+*.xlsx
+data/
+
+# ОС
+.DS_Store
+Thumbs.db
